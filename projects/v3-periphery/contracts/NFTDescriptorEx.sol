@@ -136,7 +136,7 @@ contract NFTDescriptorEx {
         return
         string(
             abi.encodePacked(
-                'This NFT represents a liquidity position in a WarpDefi ',
+                'This NFT represents a liquidity position in a GroFi Dex ',
                 quoteTokenSymbol,
                 '-',
                 baseTokenSymbol,
@@ -184,7 +184,7 @@ contract NFTDescriptorEx {
     return
         string(
             abi.encodePacked(
-                'WarpDefi - ',
+                'GroFi Dex - ',
                 feeTier,
                 ' - ',
                 escapeQuotes(params.quoteTokenSymbol),

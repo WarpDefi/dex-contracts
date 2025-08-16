@@ -10,7 +10,7 @@ export const configs = {
   },
   u2uTestnet: {
     WNATIVE: '0xC5f15624b4256C1206e4BB93f2CCc9163A75b703',
-    nativeCurrencyLabel: 'ETH',
+    nativeCurrencyLabel: 'U2U',
     v2Factory: '0xaba9Ff9714441627BDe3f96e2D49b05f9293eeD3',
     stableFactory: '0x99D45F2582568255Dd7BAa7Ce925575fD8dDdE12',
     stableInfo: '0x9d1155f5C19512632692612Ff80e43eCE1fa088B',
@@ -28,7 +28,7 @@ export const configs = {
   },
   u2uMainnet: {
     WNATIVE: '0x885a7b899bDbF51EeD883A23449Bf8A09C184391',
-    nativeCurrencyLabel: 'ETH',
+    nativeCurrencyLabel: 'U2U',
     v2Factory: '0x0000000000000000000000000000000000000000',
     stableFactory: '0x0000000000000000000000000000000000000000',
     ///    stableFactory: '0x35f9e7A0c030Af2B849feEdCb9cb973eB0D34CC8',
